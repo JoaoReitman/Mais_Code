@@ -1,0 +1,98 @@
+#loginmain {
+    height: 100vh;
+    width: 100%;
+    background-image: url("images/loginbackground.jpg");
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-color: rgb(68, 78, 177);
+    
+    
+}
+
+#login2 {
+    margin: auto;
+    width: 60%;
+    height: 70%;
+    min-width: 400px;
+    min-height: 400px;
+    padding: 10px;
+}
+
+#login3 {
+    float: left;
+    height: 100%;
+    width: 60%;
+    background-image: url("images/patern\ 1.png");
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-color: rgb(18, 48, 86);
+    border-radius: 50px 0 0 50px;
+    box-shadow: 5px 5px rgb(3, 3, 3, 0.3);
+    text-align: center;
+}
+
+#maiscodelogo1 {
+    margin-top: 20%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 8vh;
+    max-width: 100%;
+}
+
+#loginh1 {
+    color: white;
+    margin-top: 7%;
+    margin-bottom: 7%;
+}
+
+#loginp {
+    color: white;
+    
+}
+
+#login4 {
+    text-align: center;
+    float: right;
+    height: 100%;
+    width: 40%;
+    background-color: white;
+    border-radius: 0 50px 50px 0;
+    box-shadow: 5px 5px rgb(3, 3, 3, 0.3);
+}
+
+#loginh12 {
+    margin-top: 19%;
+}
+
+#loginform {
+    margin-top: 20%;
+}
+
+#loginenter {
+    margin-top: 4vh;
+    color: white;
+    background-color: rgb(14, 48, 86);
+    width: 50%;
+    border-radius: 8px;
+    
+}
+
+#loginname {
+    margin-bottom: 4vh;
+}
+
+#loginname, #loginpassword {
+    border: none;
+    border-bottom: 1px solid black;
+    
+    max-width: 100%;
+}
+
+#logincheck {
+    margin-left: -5vw;
+}
